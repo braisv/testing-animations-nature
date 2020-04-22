@@ -463,6 +463,11 @@ body {
     transform: translate(-50%, -50%) scale(1);
     filter: blur(3px) brightness(80%); }
 
+.footer {
+  background-color: #333;
+  padding: 10rem 0;
+  font-size: 1.4rem; }
+
 .header {
   position: relative;
   height: 95vh;
